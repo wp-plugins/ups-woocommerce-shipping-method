@@ -20,7 +20,7 @@ In case you need our support in installation, setup or customisation of the plug
 <blockquote>
 = Buy Premium version of UPS WooCommerce Shipping plugin =
 <a rel="nofollow" href="http://www.wooforce.com/product/ups-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
-
+[youtube https://www.youtube.com/watch?v=3yl4vdKKMyg]
 = Premium version Features =
 UPS Premium version streamlines your complete shipping process and saves time
 <ul>
