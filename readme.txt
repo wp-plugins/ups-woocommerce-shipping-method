@@ -17,10 +17,10 @@ UPS WooCommerce Shipping plugin helps WooCommerce based stores to streamline UPS
 
 In case you need our support in installation, setup or customisation of the plugin, please contact us at info@wooforce.com
 
-<blockquote>
 = Buy Premium version of UPS WooCommerce Shipping plugin =
 <a rel="nofollow" href="http://www.wooforce.com/product/ups-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
 [youtube https://www.youtube.com/watch?v=3yl4vdKKMyg]
+<blockquote>
 = Premium version Features =
 UPS Premium version streamlines your complete shipping process and saves time
 <ul>
