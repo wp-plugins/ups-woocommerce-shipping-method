@@ -1,5 +1,5 @@
 === UPS WooCommerce Shipping Method Plugin ===
-Contributors: DaZ_008
+Contributors: WooForce
 Donate link: 
 Tags: UPS, UPS Shipping, Shipping rates, shipping method, calculator, Shipping, WooCommerce
 Requires at least: 3.0.1
